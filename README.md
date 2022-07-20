@@ -1,8 +1,8 @@
 # Proyecto Clase 04 
 Team:
-    - Gaston
+    - Gaston 
 
 Tools:
-    - Unity Engine 2021.3.5 LTS
+    - Unity Engine 2021.3.6 LTS
 
 
